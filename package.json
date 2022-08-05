@@ -1,0 +1,20 @@
+{
+  "name": "actus-du-tarn",
+  "version": "1.0.0",
+  "description": "**ACTUS DU TARN - README**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianoM8103/Actus-du-Tarn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianoM8103/Actus-du-Tarn/issues"
+  },
+  "homepage": "https://github.com/JulianoM8103/Actus-du-Tarn#readme"
+}
