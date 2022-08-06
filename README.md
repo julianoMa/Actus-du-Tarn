@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # **ACTUS DU TARN - README**
+=======
+**ACTUS DU TARN - README**
+>>>>>>> c1c31be6492c4d4b84a7d7eeca855933759f3759
