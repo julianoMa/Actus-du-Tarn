@@ -11,7 +11,7 @@ Le site vous permettant d'avoir toutes les actualités du Tarn (ou presque).
 
 # **2. Fonctionnalités**
 
--> Formulaire pour envoyer vos propres informations.
+-> Formulaire pour envoyer vos propres informations (https://forms.gle/xHMEztXA7kjkHeVP6).
 
 ->
 
