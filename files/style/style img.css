@@ -25,7 +25,18 @@ html {
 .containeurArt {
     width: 900px;
     height: 600px;
-    background-color: white;
-    box-shadow: 15%;
-    margin-right: 300px;
+    background-color: rgb(230, 230, 230);
+}
+
+/* CSS Des photos des articles */
+
+.incendieMontredonImg {
+    width: 325px;
+    height: 200px;
+    margin-top: 15px;
+    margin-left: 125px;
+}
+
+.incendieMontredonImg:hover {
+    opacity: 0.8;
 }
