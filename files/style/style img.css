@@ -13,8 +13,9 @@
 }
 
 html {
-    background-image: url("https://www.outside.fr/wp-content/uploads/2022/05/Gorges-du-Tarn-Kayak-1.webp");
+    background-image: url("https://www.tourisme-tarn.com/wp-content/uploads/2016/10/penne-header-1-1600x900.jpg");
     background-size: cover;
+    opacity: 0.9;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
