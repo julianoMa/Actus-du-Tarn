@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JulianoM8103/Actus-du-Tarn/issues"
   },
-  "homepage": "https://github.com/JulianoM8103/Actus-du-Tarn#readme"
+  "homepage": "https://github.com/JulianoM8103/Actus-du-Tarn#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
 }
