@@ -15,6 +15,7 @@
 html {
     background-image: url("https://www.outside.fr/wp-content/uploads/2022/05/Gorges-du-Tarn-Kayak-1.webp");
     background-size: cover;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     height: auto;
@@ -22,7 +23,7 @@ html {
 }
 
 .containeurArt {
-    width: 600px;
+    width: 900px;
     height: 600px;
     background-color: white;
     box-shadow: 15%;
