@@ -7,11 +7,15 @@
 
 # **1. Description**
 
-
+Le site vous permettant d'avoir toutes les actualités du Tarn (ou presque).
 
 # **2. Fonctionnalités**
 
+-> Formulaire pour envoyer vos propres informations.
 
+->
+
+->
 
 # **3. MAJ**
 

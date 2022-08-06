@@ -20,3 +20,11 @@ html {
     height: auto;
     width: auto;
 }
+
+.containeurArt {
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    box-shadow: 15%;
+    margin-right: 300px;
+}
