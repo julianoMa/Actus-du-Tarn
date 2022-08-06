@@ -2,6 +2,10 @@
     margin-top: 391px;
 }
 
+.down:hover {
+    scale: 1.15;
+}
+
 html {
     background-image: url("https://www.outside.fr/wp-content/uploads/2022/05/Gorges-du-Tarn-Kayak-1.webp");
     background-size: cover;
