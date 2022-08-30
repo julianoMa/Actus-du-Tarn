@@ -45,6 +45,11 @@ h1 {
 
 .art {
     color: black;
+    text-align: justify;
+}
+
+.TitreArt {
+    color: black;
 }
 
 .link {
